@@ -59,7 +59,6 @@ def table_with_file():
             print(n1, "X", i, "=", n1 * i)
             t.insert(END, "{} \n".format(s))
 
-
     file.close()
 
 
